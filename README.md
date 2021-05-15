@@ -1,1 +1,2 @@
-# class21-Mylibrary
+# collisionAlgorithm
+Algorithm to detect collision between two objects
